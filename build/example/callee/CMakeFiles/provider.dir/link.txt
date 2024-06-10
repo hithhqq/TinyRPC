@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/provider.dir/friendservice.cpp.o CMakeFiles/provider.dir/__/frend.pb.cc.o  -o ../../../bin/provider   -L/home/yeye/workspace/Rpc/lib  -Wl,-rpath,Debug:/home/yeye/workspace/Rpc/lib ../../../lib/libmprpc.a -lprotobuf -labsl_log_internal_check_op -labsl_log_internal_message -lmuduo_net -lmuduo_base -lpthread -lzookeeper_mt 
